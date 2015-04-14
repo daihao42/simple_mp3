@@ -1,0 +1,9 @@
+Package: kk_mp3
+Section: media player
+Priority: extra
+Installed-Size: 88
+Maintainer: hihihi
+Architecture: i386
+Version: 1.0
+Depends: libc6,libglib2.0-0,libgtk3.0-0,gstreamer0.10-ffmpeg,gstreamer0.10-plugins-base,gstreamer0.10-plugins-ugly
+Description: simple mp3 player... @_@ ... 
